@@ -19,3 +19,6 @@ target
 tmp
 dump
 *.log
+.bsp/
+.scalafmt.conf
+
