@@ -12,7 +12,10 @@ libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "5.1.0
 
 libraryDependencies ++= Seq(
   "org.scalikejdbc" %% "scalikejdbc" % "3.5.0",
-  "ch.qos.logback" % "logback-classic" % "1.2.3"
+  "ch.qos.logback" % "logback-classic" % "1.2.3",
+  "ch.qos.logback" % "logback-classic" % "1.2.3",
+  "org.typelevel" %% "cats-core" % "2.1.1",
+  "org.typelevel" %% "cats-effect" % "2.3.0"
 )
 
 // Adds additional packages into Twirl
