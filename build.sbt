@@ -14,8 +14,8 @@ libraryDependencies ++= Seq(
   "org.scalikejdbc" %% "scalikejdbc" % "3.5.0",
   "ch.qos.logback" % "logback-classic" % "1.2.3",
   "ch.qos.logback" % "logback-classic" % "1.2.3",
-  "org.typelevel" %% "cats-core" % "2.3.0",
-  "org.typelevel" %% "cats-effect" % "2.3.0"
+  "org.typelevel" %% "cats-core" % "2.3.1",
+  "org.typelevel" %% "cats-effect" % "2.3.1"
 )
 
 // Adds additional packages into Twirl
