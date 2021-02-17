@@ -15,7 +15,7 @@ libraryDependencies ++= Seq(
   "ch.qos.logback" % "logback-classic" % "1.2.3",
   "ch.qos.logback" % "logback-classic" % "1.2.3",
   "org.typelevel" %% "cats-core" % "2.3.1",
-  "org.typelevel" %% "cats-effect" % "2.3.1"
+  "org.typelevel" %% "cats-effect" % "2.3.3"
 )
 
 // Adds additional packages into Twirl
