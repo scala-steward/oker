@@ -12,8 +12,8 @@ libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "5.1.0
 
 libraryDependencies ++= Seq(
   "org.scalikejdbc" %% "scalikejdbc" % "3.5.0",
-  "ch.qos.logback" % "logback-classic" % "1.2.3",
-  "ch.qos.logback" % "logback-classic" % "1.2.3",
+  "ch.qos.logback" % "logback-classic" % "1.2.12",
+  "ch.qos.logback" % "logback-classic" % "1.2.12",
   "org.typelevel" %% "cats-core" % "2.3.1",
   "org.typelevel" %% "cats-effect" % "2.3.1"
 )
